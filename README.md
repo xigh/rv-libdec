@@ -8,8 +8,8 @@ It compiles on Linux/FreeBSD, MacOS and Windows (both with WSL and VS 2019 Compi
 
 ### Requirements :
 
-CMake
-C compiler
+* CMake
+* C compiler
 
 ### How to download :
 
