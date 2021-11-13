@@ -1,3 +1,6 @@
 [submodule "rv-libopc"]
 	path = rv-libopc
 	url = https://github.com/xigh/rv-libopc
+[submodule "rv-libsys"]
+	path = rv-libsys
+	url = https://github.com/xigh/rv-libsys
