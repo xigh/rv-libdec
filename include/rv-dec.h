@@ -48,7 +48,7 @@ enum
 {
 	RV_UNDEF,
 #define RV_OP(x) RV_##x,
-#include "rv-ops.inc"
+#include "rv-opc.h"
 };
 
 #endif // __RV_DEC_H
